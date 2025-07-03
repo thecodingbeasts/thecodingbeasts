@@ -2,17 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Welcome+to+Coding+Beasts!;WordPress+Experts+%7C+React+Dev+%7C+WooCommerce+Wizards;We+Build+Fast+%26+Beautiful+Websites" alt="Typing SVG" />
 </p>
 
-
-
-<!-- 🧠 Clean Beast-Mode Header Start -->
-<div align="center">
-
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="beast-coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="beast-coding" />
+</p>
 
-<h1>⚡ We Craft Web Experiences that Convert & Roar!</h1>
-
-</div>
+<h1 align="center">
+  ⚡ We Craft Web Experiences that Convert & Roar!
+</h1>
 
 ---
 
@@ -51,8 +47,14 @@ We delivered a clean, fast-loading design tailored to elevate the brand’s onli
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,elementor,react,firebase,figma,tailwind,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=wordpress,react,firebase,figma,tailwind,js,html,css,github,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.png" width="48" title="WooCommerce" alt="WooCommerce" />
+  <img src="https://cdn.worldvectorlogo.com/logos/elementor-1.png" width="48" title="Elementor" alt="Elementor" />
+</p>
+
 
 ---
 
@@ -67,8 +69,8 @@ We delivered a clean, fast-loading design tailored to elevate the brand’s onli
 
 ## 🗣️ Client Feedback
 
-> \"They delivered exactly what we needed — a fast, elegant WordPress site. Loved working with Coding Beasts!\" — **Zara K.**, Ethereal DXB  
-> \"Very professional and responsive. Our custom plugin worked like a charm.\" — **Imran A.**, SaaS Startup Founder  
+> "They delivered exactly what we needed — a fast, elegant WordPress site. Loved working with Coding Beasts!" — **Zara K.**, Ethereal DXB  
+> "Very professional and responsive. Our custom plugin worked like a charm." — **Imran A.**, SaaS Startup Founder  
 
 ---
 
@@ -83,7 +85,7 @@ We delivered a clean, fast-loading design tailored to elevate the brand’s onli
 
 ## 🤝 Work With Us
 
-📧 hello@codingbeasts.com  
+📧 info@codingbeasts.com  
 🌐 [www.codingbeasts.com](https://www.codingbeasts.com)  
 📸 [Instagram](https://instagram.com/codingbeasts)  
 💼 [LinkedIn](https://linkedin.com/company/coding-beasts)
@@ -93,5 +95,5 @@ We delivered a clean, fast-loading design tailored to elevate the brand’s onli
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Smart+Code+for+Smart+Businesses.;Let%27s+Build+Something+Great!" alt="footer-typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Smart+Code+for+Smart+Businesses.;Let%27s+Build+Something+Great!" alt="footer-typing" />
 </p>
